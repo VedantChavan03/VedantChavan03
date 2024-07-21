@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantchavan03&label=Profile%20views&color=0e75b6&style=flat" alt="vedantchavan03" /> </p>
 
-- 🔭 I’m currently working on [TravelVista](https://github.com/VedantChavan03/TravelVista.git)
-
 - 📫 How to reach me **vedantchc@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1N1SI-z--6S-7WoXNDTgA491yKPFcjBgp/view?usp=sharing](https://drive.google.com/file/d/1N1SI-z--6S-7WoXNDTgA491yKPFcjBgp/view?usp=sharing)
